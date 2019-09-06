@@ -216,7 +216,7 @@
         Low:<xliff:g id="low">%3$s</xliff:g>
     </string>
 
-
+    <string name="wind_label">Wind</string>
     <!-- - - - - - - - - - - -->
     <!-- Used by NetworkUtils-->
     <!-- - - - - - - - - - - -->
